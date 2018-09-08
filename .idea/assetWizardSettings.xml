@@ -23,7 +23,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="56" />
+                                                <entry key="scalingPercent" value="70" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -46,12 +46,10 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="3f51b5" />
-                                      <entry key="backgroundLayerName" value="back_background" />
-                                      <entry key="foregroundImage" value="$USER_HOME$/下载/return.png" />
-                                      <entry key="foregroundLayerName" value="back_foreground" />
-                                      <entry key="legacyIconShape" value="CIRCLE" />
-                                      <entry key="outputName" value="back_new" />
+                                      <entry key="backgroundColor" value="06adb5" />
+                                      <entry key="foregroundImage" value="$USER_HOME$/下载/96d464ad22622eb0925bba5e6ad26a52.png" />
+                                      <entry key="outputName" value="table" />
+                                      <entry key="showSafeZone" value="false" />
                                     </map>
                                   </option>
                                 </PersistentState>
